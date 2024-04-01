@@ -45,9 +45,9 @@ CCTV5+,http://111.20.35.108:6610/yinhe/2/ch00000090990000001334/index.m3u8?virtu
 中视新闻,https://epg.pw/stream/5b471967247922dd626a252fb38f22a06be7e1a8c34e2b8c8cea7d4bc73a5c7f.ctv?WithCaption
 中视,rtmp://f13h.mine.nu/sat/tv091
 东森电影台,mitv://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
-东森新闻,https://s2.pub/cctv-18?WithCaption#mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
-翡翠台,https://s2.pub/cctv-4?WithCaption#https://epg.pw/stream/80c9fc96e45c72553ecc03313de560755db339689870f9095aa9c685e39879e5.m3u8
-无线新闻,http://mtw.so/69K9rx#http://live.cooltv.top/tv/tvb.php?id=2?WithCaption#http://1.65.195.85:9981/stream/channelid/2051586642
+东森新闻,https://s2.pub/cctv-18#mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
+翡翠台,https://s2.pub/cctv-4#https://epg.pw/stream/80c9fc96e45c72553ecc03313de560755db339689870f9095aa9c685e39879e5.m3u8
+无线新闻,http://mtw.so/69K9rx#http://live.cooltv.top/tv/tvb.php?id=2#http://1.65.195.85:9981/stream/channelid/2051586642
 广东体育,http://www.ye28.eu.org:7777/udp/239.77.0.112:5146#http://rfx2018.55555.io:2345//udp/239.77.0.168:5146
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 东方卫视,http://111.20.35.108:6610/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
